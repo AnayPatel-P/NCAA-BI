@@ -109,9 +109,6 @@ The Power BI report uses a star schema with two fact tables and three dimension 
 
 **Published Report:** [Power BI Service Link](#) *(coming soon)*
 
-**Resume Bullet:**
-> Built a 4-page NCAA Football scouting dashboard in Power BI, featuring dynamic player comparison cards, drill-through game logs, and 12 custom DAX measures including rolling averages, RANKX-based team rankings, and EPA-driven team comparison — published to Power BI Service from a Python-ingested CFBD API pipeline.
-
 ---
 
 ## Author
